@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Better Together</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Better Together</h1>
+  <img id="all_images" src="../static/images/bettertogether.jpg">
+
+  <p>Song title: Better Together</p>
+  <p>Artist Name: Us the Duo</p>
+  <p>Genre: Folk</p>
+  <p>Album Name: Single</p>
+  <p>Memorable Lyrics: I believe in memories, they look so, so pretty when I sleep</p>
+
+  <p><a href="https://genius.com/Us-the-duo-better-together-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://www.last.fm/music/Us+The+Duo/_/Better+Together" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

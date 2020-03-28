@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Younger</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Younger</h1>
+  <img id="all_images" src="../static/images/younger.jpg">
+
+  <p>Song title: Younger</p>
+  <p>Artist Name: Ruel</p>
+  <p>Genre: Pop</p>
+  <p>Album Name: Single</p>
+  <p>Memorable Lyrics: You and me were so, so close, And maybe that&#39;s what hurts the most</p>
+
+  <p><a href="https://genius.com/Ruel-younger-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://en.wikipedia.org/wiki/Younger_(Ruel_song)" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

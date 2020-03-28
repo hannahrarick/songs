@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Better Man</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Better Man</h1>
+  <img id="all_images" src="../static/images/betterman.jpg">
+
+  <p>Song title: Better Man</p>
+  <p>Artist Name: Little Big Town</p>
+  <p>Genre: Country</p>
+  <p>Album Name: The Breaker</p>
+  <p>Memorable Lyrics: You push my love away like it&#39;s some kind of loaded gun, boy, you never thought I&#39;d run</p>
+
+  <p><a href="https://genius.com/Little-big-town-better-man-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://en.wikipedia.org/wiki/Better_Man_(Little_Big_Town_song)" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

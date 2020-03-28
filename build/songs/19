@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Rivers and Roads</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Rivers and Roads</h1>
+  <img id="all_images" src="../static/images/rivers.jpg">
+
+  <p>Song title: Rivers and Roads</p>
+  <p>Artist Name: The Head and the Heart</p>
+  <p>Genre: Indie Rock</p>
+  <p>Album Name: The Head and the Heart</p>
+  <p>Memorable Lyrics: Been talking &#39;bout the way things change, and my family lives in a different state</p>
+
+  <p><a href="https://genius.com/The-head-and-the-heart-rivers-and-roads-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://www.soundsandbooks.com/the-head-and-the-heart-the-head-and-the-heart-album-review/" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

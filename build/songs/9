@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>In the Blood</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>In the Blood</h1>
+  <img id="all_images" src="../static/images/intheblood.jpg">
+
+  <p>Song title: In the Blood</p>
+  <p>Artist Name: John Mayer</p>
+  <p>Genre: Pop/Alternative</p>
+  <p>Album Name: The Search for Everything</p>
+  <p>Memorable Lyrics: Could I change it if I wanted, can I rise above the flood? Will it wash out in the water, or is it always in the blood? </p>
+
+  <p><a href="https://genius.com/John-mayer-in-the-blood-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://evokecontemporary.blog/2017/06/02/soey-milk-john-mayers-creative-collaboration/" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

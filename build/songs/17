@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Never Be Alone</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Never Be Alone</h1>
+  <img id="all_images" src="../static/images/neverbealone.jpg">
+
+  <p>Song title: Never Be Alone</p>
+  <p>Artist Name: Shawn Mendes</p>
+  <p>Genre: Pop</p>
+  <p>Album Name: Handwritten</p>
+  <p>Memorable Lyrics: When you fall asleep tonight, just remember that we lay under the same stars</p>
+
+  <p><a href="https://genius.com/Shawn-mendes-never-be-alone-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://shawnmendes.fandom.com/wiki/Never_Be_Alone" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

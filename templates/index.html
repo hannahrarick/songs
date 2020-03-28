@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Songs Index</title>
+  <link rel="stylesheet" href="{{ font_url }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+
+<body>
+
+<img id="music" src="{{ url_for('static', filename='images/music.jpg') }}">
+
+
+
+<div id=container>
+
+  <div class="typewriter">
+    <h1> Song Generator </h1>
+  </div>
+
+  <p>Below is a list of moods I've felt and I know others have. If you click on a mood, it will give you a song request that fits. All 20 entries should cover a wide array of feelings, moments and memories we have all felt and/or experienced.</p>
+
+  <ul>
+
+  {% for pair in pairs %}
+    <li><a href="{{ url_for('songs', num=pair[0]) }}">{{ pair[1] }}</a></li>
+  {% endfor %}
+  </ul>
+
+
+</div>
+
+<footer> Page done by Hannah Rarick for Advanced Web Apps at the University of Florida. <a class="link" href="https://unsplash.com/photos/1oKxSKSOowE">Header photo credit</a></footer>
+
+</body>
+</html>

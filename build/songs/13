@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Excavate</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Excavate</h1>
+  <img id="all_images" src="../static/images/excavate.jpg">
+
+  <p>Song title: Excavate</p>
+  <p>Artist Name: Macklemore ft. Saint Claire</p>
+  <p>Genre: Rap</p>
+  <p>Album Name: Gemini</p>
+  <p>Memorable Lyrics: If you don&#39;t love yourself, what&#39;s the respect for? If you don&#39;t love life, the check won&#39;t correct yours </p>
+
+  <p><a href="https://genius.com/Macklemore-excavate-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="http://dailytrojan.com/2017/09/25/macklemores-gemini-contains-high-low-points/" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

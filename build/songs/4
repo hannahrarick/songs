@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Little Lion Man</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Little Lion Man</h1>
+  <img id="all_images" src="../static/images/littlelion.jpg">
+
+  <p>Song title: Little Lion Man</p>
+  <p>Artist Name: Mumford and Sons</p>
+  <p>Genre: Indie Rock</p>
+  <p>Album Name: Babel</p>
+  <p>Memorable Lyrics: Your boldness stands alone among the wreck, now learn from your mother or else spend your days biting your own neck</p>
+
+  <p><a href="https://genius.com/Mumford-and-sons-little-lion-man-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://kcamara.files.wordpress.com/2011/02/mumford-and-sons-little-lion-man-island.jpg" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Dress Blues</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Dress Blues</h1>
+  <img id="all_images" src="../static/images/dressblues.jpg">
+
+  <p>Song title: Dress Blues</p>
+  <p>Artist Name: Zac Brown Band</p>
+  <p>Genre: Country</p>
+  <p>Album Name: Jekyl + Hyde</p>
+  <p>Memorable Lyrics: Nobody here could forget you, You showed us what we had to lose</p>
+
+  <p><a href="https://genius.com/Zac-brown-band-dress-blues-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://en.wikipedia.org/wiki/Jekyll_%2B_Hyde" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>

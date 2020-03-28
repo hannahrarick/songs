@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Howling At Nothing</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+Prime&amp;display=swap">
+  <link rel="stylesheet" href="../static/main.css">
+</head>
+
+<body>
+
+<div id=container>
+
+  <h1>Howling At Nothing</h1>
+  <img id="all_images" src="../static/images/howling.jpg">
+
+  <p>Song title: Howling At Nothing</p>
+  <p>Artist Name: Nathaniel Rateliff &amp; The Night Sweats </p>
+  <p>Genre: Indie Rock</p>
+  <p>Album Name: Nathaniel Rateliff &amp; The Night Sweats</p>
+  <p>Memorable Lyrics: It never seemed to matter as the night slipped away, &#39;Cause there was soul in the air</p>
+
+  <p><a href="https://genius.com/Nathaniel-rateliff-and-the-night-sweats-howling-at-nothing-lyrics" target="_blank">All Lyrics</a></p>
+  <p><a href="https://www.amazon.com/Howling-At-Nothing/dp/B01N3TUYB4" target="_blank">Image Credit</a></p>
+  <p><a href="../index.html">Return to a different mood</a></p>
+
+
+
+</div>
+</body>
+</html>
