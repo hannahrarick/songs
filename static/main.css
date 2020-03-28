@@ -47,13 +47,14 @@ p {
 }
 
 /* The typewriter cursor effect */
+/* This code was copied from geoffgraham in Codepen https://codepen.io/geoffgraham/pen/jrWwWM */
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
 
 .link {
-  color:#D9D9D9; 
+  color:#D9D9D9;
 }
 
 footer {
